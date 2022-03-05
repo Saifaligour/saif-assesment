@@ -1,0 +1,1 @@
+To run Server, Write the Command `npm start`
